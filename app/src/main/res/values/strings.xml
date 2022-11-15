@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">States Controller</string>
+    <string name="ncreate" translatable="false">Activity CREATED</string>
+    <string name="nstart" translatable="false">Activity STARTED</string>
+    <string name="nresume" translatable="false">Activity RESUMED</string>
+    <string name="npause" translatable="false">Activity PAUSED</string>
+    <string name="nstop" translatable="false">Activity STOPPED</string>
+    <string name="nrestart" translatable="false">Activity RESTARTED</string>
+    <string name="ndestroy" translatable="false">Activity DESTROYED</string>
+</resources>
